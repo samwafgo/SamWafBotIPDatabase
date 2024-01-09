@@ -1,24 +1,8 @@
 {
   "BotDesc": "These Json files are collected by SamWaf",
   "BotList": {
-    "GoogleBot": {
-      "filename": "googlebot.json",
-      "updatetime": "2024-01-09 12:00"
-    },
-    "GoogleAdsBot": {
-      "filename": "googleadsbot.json",
-      "updatetime": "2024-01-09 12:00"
-    },
-    "GoogleUserTriggeredBot": {
-      "filename": "googleusertriggeredbot.json",
-      "updatetime": "2024-01-09 12:00"
-    },
-    "Bingbot": {
-      "filename": "bingbot.json",
-      "updatetime": "2024-01-09 12:00"
-    },
-    "BaiduBot": {
-      "filename": "baidubot.json",
+    "ScanBot": {
+      "filename": "scanbot.json",
       "updatetime": "2024-01-09 12:00"
     }
   }
