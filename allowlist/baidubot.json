@@ -1,0 +1,239 @@
+{
+  "BotDesc": "These Json files are collected by SamWaf",
+  "BotList": [
+    {
+      "ip": "220.181.108.103",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-103.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.104",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-104.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.105",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-105.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.110",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-110.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.111",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-111.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.112",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-112.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.113",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-113.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.114",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-114.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.144",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-144.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.145",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-145.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.146",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-146.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.147",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-147.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.149",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-149.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.155",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-155.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.156",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-156.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.157",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-157.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.158",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-158.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.159",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-159.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.165",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-165.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.166",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-166.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.167",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-167.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.168",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-168.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.169",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-169.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.174",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-174.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.175",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-175.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.176",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-176.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.177",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-177.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.178",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-178.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.80",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-80.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.81",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-81.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.82",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-82.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.83",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-83.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.84",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-84.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.90",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-90.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.91",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-91.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.92",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-92.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.93",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-93.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.94",
+      "updatetime": "2024-01-09 09:02:49 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-94.crawl.baidu.com."
+    },
+    {
+      "ip": "220.181.108.102",
+      "updatetime": "2024-01-09 09:03:17 UTC",
+      "iptype": "ipv4",
+      "remark": "baiduspider-220-181-108-102.crawl.baidu.com."
+    }
+  ]
+}
