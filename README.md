@@ -16,6 +16,14 @@ SamWafBotIPDatabase collects mainstream search engine IPs and payment platform c
 - 1  <a href="allowlist/index.json">get allowlist/index.json</a> 
 - 2  Download the corresponding data through the information in index.json
 
+## 📚 Support 
+| System                  | Status| Remark|
+| ----------------------- | ------------ | ------------ |
+| `Google search engine`| ✔  | full|
+| `Bing search engine`| ✔  | full|
+| `Baidu search engine`| ✔  | continually |
+| `WeixinPay callback ip`| ✔   |full |
+
 <a name="LICENSE"></a>
 ## 📄 License
 This project is released under <a href="LICENSE">Apache 2.0 license</a>
