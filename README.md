@@ -6,7 +6,9 @@ SamWafBotIPDatabase collects mainstream search engine IPs and payment platform c
 
 
 ## 📣 Recent updates
-- **2024.01.10 Release🔥**
+- **2024.01.26 Release🔥**
+  -  add bytedance spider ip
+- **2024.01.10 Release**
   -  add weichatpay callback ip
 - **2024.01.09 Release**
   -  add GoogleBot,GoogleAdsBot,GoogleUserTriggeredBot,BingBot,BaiduBot
@@ -23,7 +25,7 @@ SamWafBotIPDatabase collects mainstream search engine IPs and payment platform c
 | `Bing search engine`| ✔  | full|
 | `Baidu search engine`| ✔  | continually |
 | `WeixinPay callback ip`| ✔   |full |
-
+| `ByteDance spider ip`| ✔   |full |
 <a name="LICENSE"></a>
 ## 📄 License
 This project is released under <a href="LICENSE">Apache 2.0 license</a>
